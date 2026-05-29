@@ -168,6 +168,41 @@ to recommend the best route.
 
 ---
 
+## Research Publication
+
+This project was developed as part of an academic research initiative in the domain of **Smart City Navigation**, **Route Optimization**, and **Intelligent Transportation Systems**.
+
+### Publication Status
+
+**Accepted at:**
+
+**2026 International Conference on Emerging Smart Computing and Informatics (ESCI), IEEE**
+
+### Paper Title
+
+**Smart City Navigation System for Multi-Route Recommendation and Emergency Landmark Awareness**
+
+### Abstract
+
+SmartNav is a smart city navigation framework that combines graph-based route optimization with emergency landmark awareness. Using OpenStreetMap, OSMnx, NetworkX, and Folium, the system generates multiple alternative routes between source and destination locations and recommends the most balanced route using a rule-based scoring model that considers travel distance, estimated travel time, and nearby emergency points of interest such as hospitals, fuel stations, and police stations.
+
+### Research Paper
+
+[View Research Paper](./doc/Research_Paper%20doc.docx)
+
+### Authors
+
+- Foram Patel
+- Om Ganjewar
+- Manthan Gadiya
+- Pragati Jadhav
+- Sanskar Gogawale
+
+**Guide:** Prof. Sheela Chinchmalatpure
+
+**Department of Artificial Intelligence and Data Science**  
+Vishwakarma Institute of Technology, Pune
+
 ## Future Improvements
 
 * Real-time traffic integration
