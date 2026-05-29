@@ -1,3 +1,11 @@
 networkx
 matplotlib
 streamlit
+osmnx
+folium
+streamlit-folium
+geopy
+shapely
+pandas
+requests
+numpy
