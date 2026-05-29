@@ -1,0 +1,23 @@
+
+{
+  "nodes": ["A", "B", "C", "D", "E", "F"],
+  "edges": [
+  ["A", "B", {"base_weight": 2, "current_weight": 2}],
+  ["A", "C", {"base_weight": 2, "current_weight": 2}],
+  ["B", "D", {"base_weight": 3, "current_weight": 3}],
+  ["B", "C", {"base_weight": 5, "current_weight": 5}],
+  ["C", "E", {"base_weight": 3, "current_weight": 3}],
+  ["E", "D", {"base_weight": 4, "current_weight": 4}],
+  ["D", "F", {"base_weight": 11, "current_weight": 11}]
+]
+
+  ,"landmarks": {
+    "A": ["Hospital"],
+    "B": ["ATM"],
+    "C": ["Police Station"],
+    "E": ["Fuel Station"]
+  }
+
+  
+}
+
